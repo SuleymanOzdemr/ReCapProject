@@ -1,0 +1,12 @@
+C:\Users\Mralp\source\repos\Solution1\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Mralp\source\repos\Solution1\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Mralp\source\repos\Solution1\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Mralp\source\repos\Solution1\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Mralp\source\repos\Solution1\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Mralp\source\repos\Solution1\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
